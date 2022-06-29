@@ -1,4 +1,4 @@
-# 7daysoscode
+# 7daysofcode
 
 Desafio 7 Days Of Code proposto pela Alura.
 
